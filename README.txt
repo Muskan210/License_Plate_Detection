@@ -1,9 +1,9 @@
 License Plate Detection & Recognition
 
-This repository contains my end-to-end assignment project for detecting and recognizing license plates in vehicle images.  
-It was developed as part of my internship selection process and demonstrates my understanding of **computer vision**, **data preprocessing**, and **deep learning** basics.
+This repository contains my end-to-end project for detecting and recognizing license plates in vehicle images.  
+It was developed to demonstrates my understanding of computer vision, data preprocessing, and deep learning basics.
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project Overview
 
@@ -16,7 +16,7 @@ Datasets:
 - Training Set 2: Cropped license plates + text labels (900 images)  
 - Test Set: Images similar to Training Set 1 (201 images)
 
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Key Steps
 
@@ -38,7 +38,7 @@ Key Steps
 - Tracked training/validation loss and accuracy.
 - Visualized metrics with plots.
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Tools & Libraries
 
@@ -46,7 +46,7 @@ Python 3.x
 - `pandas`, `OpenCV (cv2)`, `matplotlib`
 - `PyTorch` for model development and training
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Current Status
 
@@ -55,10 +55,10 @@ Current Status
 - Recognition model shows good training accuracy on sample runs.
 - Integrated pipeline (detect ➜ crop ➜ recognize) outlined for future work.
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 How to Run
 
 Clone this repo:  
 ```bash
-git clone https://github.com/Muskan210/<repo-name>.git
+git clone https://github.com/Muskan210/License_Plate_Detection.git
